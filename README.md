@@ -1,5 +1,20 @@
-# 💫 About Me:
-👨‍💻 I'm currently working on: Building a full-stack web application using Laravel and Vue.js to manage tasks and enhance productivity.<br>🤝 I'm looking to collaborate on: Open-source projects that focus on improving user experience or solving real-world problems with modern technologies like Laravel and React.<br>💡 I'm looking for help with: Learning advanced concepts in Docker and containerization to deploy my applications more efficiently.<br>🌱 I'm currently learning: React.js and TypeScript to expand my frontend skills and build more dynamic web applications.<br>🗣️ Ask me about: Laravel best practices, backend development, or anything related to software engineering as a student.<br>⚡ Fun fact: I love playing guitar and coding at the same time — music helps me stay focused!
+## About Me
+
+- 👨‍💻 **I'm Afeef Bin Firdaus**, a **Fullstack Developer** and **Software Engineering Student** passionate about building web applications using the **TALL Stack** (Tailwind CSS, Alpine.js, Laravel, Livewire).
+
+- 🔧 **Tech Stack:**  
+  - **Backend:** Laravel, PHP, MySQL  
+  - **Frontend:** Tailwind CSS, Alpine.js, Livewire, Blade  
+  - **Tools:** Git, GitHub, Composer, npm 
+  - **Learning:** Docker & Kubernetes for containerization and orchestration  
+
+- 💼 Open to **internship opportunities** in **web development** or **fullstack software engineering**.
+
+- 🤝 Interested in collaborating on **Laravel-based projects** or open-source contributions.
+
+- 🌱 When I'm not coding, I enjoy playing guitar — it helps me relax and stay creative!
+
+> Want to say hi or work together? Feel free to reach out!
 
 
 ## 🌐 Socials:
