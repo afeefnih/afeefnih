@@ -10,9 +10,7 @@
 
 - 💼 Open to **internship opportunities** in **web development** or **fullstack software engineering**.
 
-- 🤝 Interested in collaborating on **Laravel-based projects** or open-source contributions.
 
-- 🌱 When I'm not coding, I enjoy playing guitar — it helps me relax and stay creative!
 
 > Want to say hi or work together? Feel free to reach out!
 
