@@ -1,6 +1,6 @@
 ## About Me
 
-- 👨‍💻 **I'm Afeef Bin Firdaus**, a **Fullstack Developer** and **Software Engineering Student** passionate about building web applications using the **TALL Stack** (Tailwind CSS, Alpine.js, Laravel, Livewire).
+- 👨‍💻 **I'm Afeef Bin Firdaus**, a **Fullstack Developer** and **Software Engineering Student** passionate about building web applications.
 
 - 🔧 **Tech Stack:**  
   - **Backend:** Laravel, PHP, MySQL  
